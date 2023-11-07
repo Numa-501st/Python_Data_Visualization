@@ -3,11 +3,15 @@ This is my attempt at Python Data Visualisation Exercises.
 
 ### Rolling Dice with Plotly
 Using Plotly to visualize the results of rolling a dice
-![Image of results roll dice](images/dice_histogram.PNG)
+<div align=center margin= auto> 
+  <img src="images/dice_histogram.png"  width=80%>
+</div>
 
 ### Visualizing Repositories Using Plotly
 Using GitHub API to customize the chart's apperance with Plotly. 
-![Image of popular repositories](images/most_starred_python_projects.PNG)
+<div align=center margin= auto> 
+  <img src="images/most_starred_python_projects.png"  width=80%>
+</div>
 
 ## Getting Started
 ### Prerequisities
